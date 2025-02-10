@@ -50,13 +50,18 @@
       "detachFromLayout": true,
       "displayName": "Canvas",
       "dynamicBindingPathList": [],
+      "dynamicPropertyPathList": [
+        {
+          "key": "isVisible"
+        }
+      ],
       "dynamicTriggerPathList": [],
       "flexLayers": [],
       "hideCard": true,
       "isDeprecated": false,
       "isDisabled": false,
       "isLoading": false,
-      "isVisible": true,
+      "isVisible": "true",
       "key": "kg9l7bbjyw",
       "leftColumn": 0,
       "minHeight": 150,
